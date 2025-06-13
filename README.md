@@ -1,47 +1,38 @@
-## Hello There 👋
+#👋 Hey there, I’m Sudiptho
 
- I'm Sudiptho
+🚀 Data Engineer with a knack for turning messy data into powerful insights.
+With nearly 6 years of hands-on experience, I build fast, resilient, and cloud-native data pipelines that help businesses make smarter, faster decisions.
 
-🎯 **Data Engineer | Cloud & ETL Specialist**
+🧩 What Gets Me Going
+Crafting ETL pipelines that don’t just move data—they transform how it’s used
 
-Welcome to my GitHub! I'm a data engineer with close to 6 years of experience designing and optimizing scalable data pipelines, performing advanced data analysis, and integrating cloud-based solutions across AWS, Azure, and GCP. I enjoy solving real-world problems with code, data, and clean architecture.
+Designing for scale across AWS, GCP, and Azure—no cloud loyalty here, just results
 
----
+Making dashboards that go beyond pretty visuals—actual, actionable BI
 
-## 💼 What I Do
+Diving deep into fraud signals and risk analytics—where data meets decision-making
 
-- 🔄 Build robust, automated **ETL pipelines** using Python, SQL, and Apache Airflow
-- ☁️ Develop cloud-native data solutions on **AWS, Azure, and GCP**
-- 📊 Create meaningful dashboards using **Power BI, Tableau, and Looker**
-- 🧠 Work on fraud analytics, risk data, and business intelligence at scale
-- 🛠 Write clean, testable, production-ready code with CI/CD best practices
+Writing code that’s clean, tested, and built for production, not just proof-of-concept
 
----
+🔍 Real-World Stuff I’ve Built
+⚙️ Project	📄 What It Does	🔧 Stack
+AWS Customer Concessions	Automated pipeline powering compliance audits and executive BI	Python, AWS, Snowflake
+Cloud ETL Overhaul	Lifted legacy ETL onto GCP & Azure—faster, cheaper, better	PySpark, Hive, BigQuery, Synapse
+Data Quality Monitor	Catches dirty data before it breaks things	Airflow, SQL, Power BI, Snowflake
 
-## 🚀 Featured Projects
+🛠️ My Toolbox
+Languages: Python, SQL, Scala, HiveQL
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [AWS Customer Concessions Pipeline](https://github.com/Sudeep8084/Data-Engineer-Portfolio) | Production-grade data pipeline for compliance and BI reporting | Python, AWS, Snowflake |
-| [GCP & Azure ETL Migration](https://github.com/Sudeep8084/Data-Quality-Monitoring) | Migration of legacy ETL pipelines to cloud-native platforms improving speed and reliability. | PySpark, Hive, GCP (BigQuery, Dataflow), Azure (ADF, Synapse) |
-| [Data Quality Monitoring Framework](https://github.com/Sudeep8084/GCP-AZURE-ETL-Migration) | Modular framework to embed validation and alerting in data pipelines. | Python, SQL, Airflow, Power BI, Snowflake |
+Clouds: AWS (S3, Redshift), GCP (BigQuery, Dataflow), Azure (Synapse, Data Lake)
 
+Data Stack: Airflow, dbt, Spark, Kafka, Snowflake, Informatica
 
----
+Dashboards: Power BI, Tableau, Looker
 
-## 🛠️ Tech Stack
+DevOps: Git, Docker, Jenkins, K8s
 
-**Languages**: Python, SQL, HiveQL, Scala  
-**Cloud**: AWS (S3, Redshift), GCP (BigQuery), Azure (Data Lake, Synapse)  
-**Data Tools**: Apache Airflow, dbt, Spark, Kafka, Snowflake, Informatica  
-**BI**: Power BI, Tableau, Domo  
-**Other**: Git, Docker, Jenkins, Kubernetes, REST APIs  
+📍 Based in Parsippany, NJ — but always building for the cloud.
 
----
-
-Let's connect and build something great together!
-
-📍 Parsippany, New Jersey 
----
+Let’s build something that doesn’t just work, but works smart.
 
 -->
