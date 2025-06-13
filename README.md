@@ -1,4 +1,4 @@
-## 👋 Hey there, I’m Sudiptho
+##
 
 🚀 **Data Engineer with a knack for turning messy data into powerful insights.**  
 With nearly 6 years of hands-on experience, I build fast, resilient, and cloud-native data pipelines that help businesses make smarter, faster decisions.
