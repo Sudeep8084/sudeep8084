@@ -23,8 +23,8 @@ Welcome to my GitHub! I'm a data engineer with close to 6 years of experience de
 | Project | Description | Tech |
 |--------|-------------|------|
 | [AWS Customer Concessions Pipeline](https://github.com/Sudeep8084/Data-Engineer-Portfolio) | Production-grade data pipeline for compliance and BI reporting | Python, AWS, Snowflake |
-| [GCP & Azure ETL Migration](https://github.com/sudiptho/gcp_azure_etl_migration) | Migration of legacy ETL pipelines to cloud-native platforms improving speed and reliability. | PySpark, Hive, GCP (BigQuery, Dataflow), Azure (ADF, Synapse) |
-| [Data Quality Monitoring Framework](https://github.com/sudiptho/data_quality_monitoring) | Modular framework to embed validation and alerting in data pipelines. | Python, SQL, Airflow, Power BI, Snowflake |
+| [GCP & Azure ETL Migration](https://github.com/Sudeep8084/Data-Quality-Monitoring) | Migration of legacy ETL pipelines to cloud-native platforms improving speed and reliability. | PySpark, Hive, GCP (BigQuery, Dataflow), Azure (ADF, Synapse) |
+| [Data Quality Monitoring Framework](https://github.com/Sudeep8084/GCP-AZURE-ETL-Migration) | Modular framework to embed validation and alerting in data pipelines. | Python, SQL, Airflow, Power BI, Snowflake |
 
 
 ---
