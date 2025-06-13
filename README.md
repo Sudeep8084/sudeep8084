@@ -2,7 +2,7 @@
 
  I'm Sudiptho
 
-🎯 **Data Engineer | Python Developer | Cloud & ETL Specialist**
+🎯 **Data Engineer | Cloud & ETL Specialist**
 
 Welcome to my GitHub! I'm a data engineer with close to 6 years of experience designing and optimizing scalable data pipelines, performing advanced data analysis, and integrating cloud-based solutions across AWS, Azure, and GCP. I enjoy solving real-world problems with code, data, and clean architecture.
 
