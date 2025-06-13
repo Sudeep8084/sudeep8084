@@ -40,6 +40,7 @@ Welcome to my GitHub! I'm a data engineer with close to 6 years of experience de
 ---
 
 Let's connect and build something great together!
+
 📍 Parsippany, New Jersey 
 ---
 
