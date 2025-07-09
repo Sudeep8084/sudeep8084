@@ -19,8 +19,8 @@ With nearly 6 years of hands-on experience, I build fast, resilient, and cloud-n
 
 | ⚙️ Project | 📄 What It Does | 🔧 Stack |
 |-----------|-----------------|----------|
-| [AWS Customer Concessions](https://github.com/Sudeep8084/Data-Engineer-Portfolio) | Automated pipeline powering compliance audits and executive BI | Python, AWS, Snowflake |
-| [Cloud ETL Overhaul](https://github.com/Sudeep8084/Data-Quality-Monitoring) | Lifted legacy ETL onto GCP & Azure—faster, cheaper, better | PySpark, Hive, BigQuery, Synapse |
+| [AWS Customer Concessions](https://github.com/Sudeep8084/Data-Engineer-Portfolio) | Automated pipeline powering compliance audits and executive analytics | Python, AWS, Snowflake |
+| [Cloud ETL Overhaul](https://github.com/Sudeep8084/Data-Quality-Monitoring) | Lifted legacy on prem systems onto GCP -faster, cheaper, better | PySpark, Hive, BigQuery, Synapse |
 | [Data Quality Monitor](https://github.com/Sudeep8084/GCP-AZURE-ETL-Migration) | Catches dirty data before it breaks things | Airflow, SQL, Power BI, Snowflake |
 
 ---
